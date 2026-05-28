@@ -111,15 +111,6 @@ jupyter notebook
 
 ---
 
-## 📈 Próximas melhorias
-
-- Adicionar visualizações com gráficos  
-- Criar dashboards  
-- Melhorar organização do projeto  
-- Adicionar mais insights de negócio  
-
----
-
 ## 👨‍💻 Autor
 
 Lucas Feitosa  
